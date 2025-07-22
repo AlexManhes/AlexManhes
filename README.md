@@ -105,7 +105,7 @@ Me chamo Alex Sander, tenho 26 anos e sou natural do São Paulo - São José dos
   alt="GitHub Stats" 
   height="200" 
   style="padding-right: 10px;" 
-  src="https://github-readme-stats.vercel.app/api?username=AlexManhes&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=30" 
+  src="https://github-readme-stats.vercel.app/api?username=AlexManhes&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=10" 
 />
 
 <img 
@@ -116,3 +116,9 @@ Me chamo Alex Sander, tenho 26 anos e sou natural do São Paulo - São José dos
   />
 
 </p>
+
+<div align=center>
+  
+<img src="https://raw.githubusercontent.com/AlexManhes/AlexManhes/output/snake.svg" alt="Snake animation" />  
+
+</div>
