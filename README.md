@@ -1,7 +1,13 @@
 ## 👋 Olá, eu sou o Alex Sander!
 
-Me chamo **Alex Sander**, tenho 26 anos e sou natural de **São José dos Campos - SP**.  
-Concluí o ensino médio no Colégio Professora Adelia Dionisia Barbosa e, atualmente, estou cursando **Análise e Desenvolvimento de Sistemas na PUC**.
+Olá, eu sou o Alex Sander
+Estudante de Análise e Desenvolvimento de Sistemas, com foco em backend (PHP, MySQL). Apaixonado por criar soluções práticas e aprender novas tecnologias.
+📫 Como me encontrar
+
+Linkedin: https://www.linkedin.com/in/alex-manhes
+
+E-mail: alexsandermanhes@gmail.com
+
 
 ---
 
