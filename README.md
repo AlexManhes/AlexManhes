@@ -9,15 +9,14 @@ Estudante de Análise e Desenvolvimento de Sistemas, com foco em Front end (JS, 
 ### 🔗 Contato
 <br>
 <p align="left">
-  <a href="https://www.linkedin.com/in/alexmanhes/">
+  <a href="https://www.linkedin.com/in/alexmanhes">
     <img 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" title="Linkedin" width="30" style="padding-right: 10px;"/>
-    Linkedin
+
   </a>
   <br>
   <a href="https://www.instagram.com/alexmanhes/#">
     <img alt="image" src="https://github.com/user-attachments/assets/a073c7f3-d26a-43aa-8178-16f2894230a4" title="Linkedin" width="30" style="padding-right: 10px;" />
-      Instagram
   </a>
   
 
