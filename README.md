@@ -4,10 +4,9 @@ Olá, eu sou o Alex Sander
 Estudante de Análise e Desenvolvimento de Sistemas, com foco em backend (PHP, MySQL). Apaixonado por criar soluções práticas e aprender novas tecnologias.
 📫 Como me encontrar
 
-Linkedin: https://www.linkedin.com/in/alex-manhes
-
-E-mail: alexsandermanhes@gmail.com
-
+## 📫 Contato
+- 📧 alexmanhes@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/alexmanhes/)
 
 ---
 
