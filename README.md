@@ -4,30 +4,24 @@ Olá, eu sou o Alex Sander
 Estudante de Análise e Desenvolvimento de Sistemas, com foco em Front end (JS, Angular, HTML e CSS). Apaixonado por criar soluções práticas e aprender novas tecnologias.
 
 
-## 📫 Contato
-- 📧 alexmanhes@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/alexmanhes/)
 
----
 
-### 🔗 Meus perfis no GitHub
-
+### 🔗 Contato
+<br>
 <p align="left">
-  <a href="https://github.com/AlexManhes?tab=repositories&sort=stargazers">
+  <a href="https://www.linkedin.com/in/alexmanhes/">
     <img 
-      alt="Total de estrelas" 
-      title="Total de estrelas GitHub" 
-      src="https://custom-icon-badges.demolab.com/github/stars/AlexManhes?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
-    />
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" title="Linkedin" width="30" style="padding-right: 10px;"/>
+    Linkedin
   </a>
+  <br>
+  <a href="https://www.instagram.com/alexmanhes/#">
+    <img alt="image" src="https://github.com/user-attachments/assets/a073c7f3-d26a-43aa-8178-16f2894230a4" title="Linkedin" width="30" style="padding-right: 10px;" />
+      Instagram
+  </a>
+  
 
-  <a href="https://github.com/AlexManhes?tab=followers">
-    <img 
-      alt="Seguidores" 
-      title="Me siga no GitHub" 
-      src="https://custom-icon-badges.demolab.com/github/followers/AlexManhes?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white&nocache=1"
-    />
-  </a>
+ 
 </p>
 
 ---
