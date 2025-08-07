@@ -1,7 +1,7 @@
 ## 👋 Olá, eu sou o Alex Sander!
 
 Olá, eu sou o Alex Sander
-Estudante de Análise e Desenvolvimento de Sistemas, com foco em Front end (JS, Angular, HTML e CSS). Apaixonado por criar soluções práticas e aprender novas tecnologias.
+Estudante de Análise e Desenvolvimento de Sistemas, com foco em Front end (JS, Angular,PHP ,HTML e CSS). Apaixonado por criar soluções práticas e aprender novas tecnologias.
 
 
 
