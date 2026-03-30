@@ -1,10 +1,12 @@
-## 👋 Olá, eu sou o Alex Sander!
+## 👋 Olá, eu sou o Alex
+💻 Desenvolvedor focado em [sua área]
+🚀 Buscando oportunidades em [freela/emprego]
 
-Olá, eu sou o Alex Sander
-Estudante de Análise e Desenvolvimento de Sistemas, com foco em Front end (JS, Angular,PHP ,HTML e CSS). Apaixonado por criar soluções práticas e aprender novas tecnologias.
-
-
-
+🧠 Tecnologias
+JavaScript
+Python
+React
+Java
 
 ### 🔗 Contato
 <br>
