@@ -3,10 +3,15 @@
 🚀 Buscando oportunidades em [freela/emprego]
 
 🧠 Tecnologias
+Java
 JavaScript
 Python
+PHP
+Angular
+HTML
+CSS
 React
-Java
+
 
 ### 🔗 Contato
 <br>
