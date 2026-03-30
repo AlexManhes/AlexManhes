@@ -1,5 +1,5 @@
 ## 👋 Olá, eu sou o Alex
-💻 Desenvolvedor focado em [sua área]
+💻 Desenvolvedor focado em [Front end]
 🚀 Buscando oportunidades em [freela/emprego]
 
 <ul>🧠 Tecnologias
