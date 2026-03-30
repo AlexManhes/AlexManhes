@@ -2,15 +2,18 @@
 💻 Desenvolvedor focado em [sua área]
 🚀 Buscando oportunidades em [freela/emprego]
 
-🧠 Tecnologias
-Java
-JavaScript
-Python
-PHP
-Angular
-HTML
-CSS
-React
+<ul>🧠 Tecnologias
+  <li>Java</li>
+  <li>JavaScript</li>
+  <li>Python</li>
+  <li>PHP</li>
+  <li>Angular</li>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>React</li>
+</ul>
+
+
 
 
 ### 🔗 Contato
